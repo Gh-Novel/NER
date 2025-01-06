@@ -27,3 +27,7 @@ pip install -r requirements.txt
 ```
 
 3. The process to execute the code is linear after insure the dataset folder and the NER notebook in same place just execute the cell line one by one
+
+
+Google colab: 
+https://colab.research.google.com/drive/1177FLtC_SXdHpAp3wqCdmBh63v5pWsFJ
