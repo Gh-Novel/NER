@@ -14,6 +14,16 @@ This project focuses on analyzing and predicting article engagement and populari
 ## Installation
 
 1. Clone this repository:
-   ```bash
-   git clone <repository-url>
-   cd project-directory
+  
+```bash
+git clone https://github.com/Gh-Novel/NER.git
+cd NER
+```
+
+2. Install dependencies: Make sure you have Python 3.8 or higher installed. Then run:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. The process to execute the code is linear after insure the dataset folder and the NER notebook in same place just execute the cell line one by one
